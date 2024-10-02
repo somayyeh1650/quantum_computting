@@ -45,7 +45,7 @@ Now in the created env, the first thing is to install pip:
 
     conda install pip
 
-and using pip we install the latest version of Qiskit:
+and using pip install the latest version of Qiskit:
 
     pip install qiskit 
 
