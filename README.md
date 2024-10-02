@@ -54,22 +54,29 @@ and for visualization install the following package:
     pip install matplotlib  
 
 
-
-
 # Code
-The repository consists of 12 independent codes in the following order:
-1. Qiskit basics and single qubit quantum gates
-2. Multi qubit quantum gates
-3. Constructing quantum circuits with quantum gates
-4. Quantum teleportation
-5. Superdense coding
-6. Deutsch algorithm
-7. Deutsch-Jozsa algorithm
-8. Bernstein-Vazirani algorithm
-9. Simon's algorithm
-10. Grover's search
-11. Quantum Fourier transform
-12. Quantum phase estimation
+This repository consists of 12 independent examples demonstrating various quantum algorithms and concepts using Qiskit. Below is a brief description of each:
+
+1. **Qiskit basics and single-qubit quantum gates**: Introduction to Qiskit and implementation of basic single-qubit gates such as X, Y, Z, H, and more.
+2. **Multi qubit quantum gates**: Introduction to multi-qubit gates, including CNOT, SWAP, and others.
+3. **Constructing classical circuits with quantum gates**: Demonstrates how to build Classical circuits by combining multiple quantum gates.
+4. **Quantum teleportation**: Implements quantum teleportation, a protocol for transferring quantum information using entanglement.
+5. **Superdense coding**: A protocol that allows two classical bits of information to be transmitted using only one qubit.
+6. **Deutsch algorithm**: A simple quantum algorithm that demonstrates the advantage of quantum computing for solving certain problems faster than classical algorithms.
+7. **Deutsch-Jozsa algorithm**: A more generalized version of the Deutsch algorithm, designed to distinguish between balanced and constant functions.
+8. **Bernstein-Vazirani algorithm**: A quantum algorithm used to solve a problem faster than classical methods by finding a hidden string in a function.
+9. **Simon's algorithm**: A quantum algorithm that solves Simon's problem exponentially faster than any classical algorithm.
+10. **Grover's search**: A quantum search algorithm that finds the correct input to a black-box function in significantly fewer steps than a classical search.
+11. **Quantum Fourier transform**: Demonstrates the quantum version of the Fourier transform, a key building block for many quantum algorithms.
+12. **Quantum phase estimation**: An important quantum algorithm for estimating the eigenvalue (phase) corresponding to a unitary operator.
+
+
+# References
+1. https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/
+2. https://www.ibm.com/quantum/qiskit
+3. https://www.youtube.com/watch?v=dZWz4Gs_BuI
+4. https://chatgpt.com/
+
 
 
 
