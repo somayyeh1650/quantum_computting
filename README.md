@@ -15,7 +15,7 @@ This video walks you through the process of installing Miniconda:
 
 [https://www.youtube.com/watch?v=dZWz4Gs_BuI](https://www.youtube.com/watch?v=dZWz4Gs_BuI).
 
-To download Miniconda go to the following link
+To download Miniconda go to the following link:
 
 [https://docs.anaconda.com/miniconda/index.html](https://docs.anaconda.com/miniconda/index.html) 
 
