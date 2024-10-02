@@ -49,7 +49,7 @@ and using pip install the latest version of Qiskit:
 
     pip install qiskit 
 
-and for visualization the following package:
+and for visualization install the following package:
 
     pip install matplotlib  
 
